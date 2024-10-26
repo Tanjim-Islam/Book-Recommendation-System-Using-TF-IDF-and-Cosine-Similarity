@@ -17,7 +17,7 @@ Follow these steps to install the necessary libraries and run the project:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/book-recommendation-system.git
+    git clone https://github.com/Tanjim-Islam/book-recommendation-system.git
 
     cd book-recommendation-system
     ```
